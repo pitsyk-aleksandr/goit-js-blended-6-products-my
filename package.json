@@ -1,11 +1,11 @@
 {
-  "name": "blended_products",
+  "name": "goit-js-blended-6-products-my",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/blended_products/",
+    "build": "vite build --base=/goit-js-blended-6-products-my/",
     "preview": "vite preview"
   },
   "devDependencies": {
